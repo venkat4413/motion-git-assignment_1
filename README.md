@@ -9,3 +9,4 @@
 9. Comiting -> git commit -m "Assignment-2"
 10.Risk Management -> git push origin feature-branch
 11. Adding the collaborator -> github.com-> settings -> collaboratory-> access.
+12. These are the instuructions.
